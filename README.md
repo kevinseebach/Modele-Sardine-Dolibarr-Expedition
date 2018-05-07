@@ -1,4 +1,4 @@
-# Modele-Document-Exp-ditions-Sardines-pour-Dolibarr
+# Modele-Document-Expéditions-Sardines-pour-Dolibarr
 Modèle de document pour les expéditions dans le CRM Dolibarr. Format paysage
 
 
