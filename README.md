@@ -1,8 +1,14 @@
-# Modele-Document-Expéditions-Sardines-pour-Dolibarr
+# Modele de document Sardine pour les bons d'expéditions Dolibarr
 Modèle de document pour les expéditions dans le CRM Dolibarr. Format paysage.
 
 Dispose d'un champs permettant de renseigner à la main le nombre de colis. Idéale pour les envois par palettes où il faut spécifier le nombre de colis.
 Il est possible d'interfacé ce champs avec un extrafield pour automatiser la valeur.
+
+
+## Pré-requis
+
+Dolibarr version 6 ou 7
+Module Expéditions activés sur votre instence de Dolibarr
 
 
 ## Installation 
