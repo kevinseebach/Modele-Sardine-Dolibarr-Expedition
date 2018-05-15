@@ -15,3 +15,6 @@ Il est possible d'interfacé ce champs avec un extrafield pour automatiser la va
 
 1. Dezipper le dossier et placer les éléments dans votre dossier Dolibarr à l'emplacement suivant htdocs/core/modules/expedition/doc
 2. Puis dans votre interface d'administration Dolibarr aller dans configuration, modules, expéditions et activer le nouveau modèle Sardine.
+
+
+![Screenshot](/capture.png)
